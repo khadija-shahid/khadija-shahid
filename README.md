@@ -1,25 +1,34 @@
-# Hi, I'm Khadija Shahid
+# Hi there, I'm Khadija Shahid 👩‍💻
 
-Full-stack developer in training · JavaScript · Python · C++ · building things that solve real problems
-
----
-
-## Stack
-
-**Languages:** `JavaScript` · `HTML` · `Python` · `C++`
-
-**Tools:** add your tools here e.g. `React` · `Node.js` · `Git`
-
-## Right now
-
-- Studying computer science and building projects from scratch
-- Learning something new every day
-
-## Find me
-
-- [LinkedIn](https://www.linkedin.com/in/khadija-shahid-a081a42b4/)
-- [khadijashahid635@email.com](khadijashahid635@email.com)
+> *Computer science student · turning caffeine into code*
+> 
+> JavaScript · Python · C++ · HTML — learning everything, building anything
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=khadija-shahid&show_icons=true&hide_border=true)
+## 🛠️ My stack
+
+**Languages:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+
+---
+
+## 🌱 Right now
+
+- 📚 Studying computer science
+- 🔨 Building projects from scratch
+- 🚀 Learning something new every single day
+
+---
+
+## 📬 Find me
+
+[![https://www.linkedin.com/in/khadija-shahid-a081a42b4/](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)
+[![khadijashahid635@gmail.com](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:youremail@email.com)
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=khadija-shahid&show_icons=true&hide_border=true&theme=tokyonight)
