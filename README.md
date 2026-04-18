@@ -1,10 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=24,30,0&height=200&section=header&text=Hi,%20I'm%20Khadija&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Computer%20Science%20Student&descSize=18&descAlignY=75)
 
-#
 
-Computer science student · building projects · learning every day
-
----
 
 ## Stack
 
