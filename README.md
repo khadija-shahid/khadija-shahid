@@ -7,7 +7,7 @@ field: Computer Science
 about: I write code that solves real problems
 currently_building: projects that challenge me
 looking_for: internships · collaborations · opportunities
-` ` `
+```
 
 ---
 
@@ -43,10 +43,9 @@ looking_for: internships · collaborations · opportunities
 
 ## Find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khadija-shahid-a081a42b4/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/khadija-shahid-a081a42b4/))
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:khadijashahid635@email.com)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer"/>
 </p>
-```
