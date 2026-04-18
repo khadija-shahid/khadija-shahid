@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=200&section=header&text=Hi,%20I'm%20Khadija&fontSize=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hi,%20I'm%20Khadija&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Computer%20Science%20Student&descSize=18&descAlignY=75)
 
 #
 
