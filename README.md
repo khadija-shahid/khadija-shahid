@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=200&section=header&text=Hi,%20I'm%20Khadija&fontSize=40&fontColor=ffffff)
 
-# Hi, I'm Khadija Shahid
+#
 
 Computer science student · building projects · learning every day
 
