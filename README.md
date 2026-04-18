@@ -1,6 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=200&section=header&text=Hi,%20I'm%20Khadija&fontSize=40&fontColor=ffffff)
+
 # Hi, I'm Khadija Shahid
 
-Computer science student · JavaScript · Python · C++ · HTML
+Computer science student · building projects · learning every day
 
 ---
 
@@ -13,19 +15,22 @@ Computer science student · JavaScript · Python · C++ · HTML
 
 ---
 
-## Right now
+## GitHub Stats
 
-- Studying computer science
-- Building projects from scratch
-- Learning something new every day
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khadija-shahid&show_icons=true&hide_border=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khadija-shahid&layout=compact&hide_border=true&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=khadija-shahid&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 ## Find me
 
-[![https://www.linkedin.com/in/khadija-shahid-a081a42b4/](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourname)
-[![khadijashahid635@gmail.com](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:youremail@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khadija-shahid-a081a42b4/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](khadijashahid635@email.com)
 
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=khadija-shahid&show_icons=true&hide_border=true&theme=tokyonight)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=100&section=footer)
