@@ -3,7 +3,6 @@
 </p>
 
 ```yaml
-name: Khadija Shahid
 field: Computer Science
 about: I write code that solves real problems
 currently_building: projects that challenge me
@@ -24,7 +23,7 @@ looking_for: internships · collaborations · opportunities
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
-  &nbsp;
+  <br/><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="45" height="45"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
