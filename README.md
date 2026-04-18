@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/khadija-shahid/khadija-shahid/main/header.png" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b6e,50:1a1f8f,100:6a0dad&height=220&section=header&text=Khadija%20Shahid&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Computer%20Science%20Student%20%7C%20Developer%20%7C%20Problem%20Solver&descSize=18&descAlignY=75&descAlign=50" width="100%"/>
 </p>
 
 ```yaml
@@ -57,11 +57,11 @@ looking_for: internships · collaborations · opportunities
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:youremail@email.com">
+  <a href="mailto:khadijashahid635@email.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,50:1a1f8f,100:0d1b6e&height=100&section=footer" width="100%"/>
 </p>
