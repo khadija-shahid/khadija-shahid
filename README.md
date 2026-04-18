@@ -18,7 +18,7 @@ Full-stack developer in training · JavaScript · Python · C++ · building thin
 ## Find me
 
 - [LinkedIn](https://www.linkedin.com/in/khadija-shahid-a081a42b4/)
-- [youremail@email.com](khadijashahid635@email.com)
+- [khadijashahid635@email.com](khadijashahid635@email.com)
 
 ---
 
