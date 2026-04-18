@@ -4,7 +4,6 @@
 
 ```yaml
 field: Computer Science
-about: I write code that solves real problems
 currently_building: projects that challenge me
 looking_for: internships · collaborations · opportunities
 ```
