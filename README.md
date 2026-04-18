@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/khadija-shahid/khadija-shahid/main/header.png" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,20,83,148,68,0,72&height=200&section=header&text=Hi,%20I'm%20Khadija&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<h1 align="center">Hi, I'm Khadija</h1>
 ```yaml
 field: Computer Science
 about: I write code that solves real problems
