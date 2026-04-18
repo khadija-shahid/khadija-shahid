@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b6e,50:1a1f8f,100:6a0dad&height=220&section=header&text=Khadija%20Shahid&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Computer%20Science%20Student%20%7C%20Developer%20%7C%20Problem%20Solver&descSize=18&descAlignY=75&descAlign=50" width="100%"/>
+  <img src="https://raw.githubusercontent.com/khadija-shahid/khadija-shahid/main/header.png" width="100%"/>
 </p>
 
+<h1 align="center">Hi, I'm Khadija</h1>
 ```yaml
 field: Computer Science
 about: I write code that solves real problems
@@ -11,7 +12,7 @@ looking_for: internships · collaborations · opportunities
 
 ---
 
-## Stack
+## Languages and Tools
 
 <div align="center">
 
